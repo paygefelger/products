@@ -35,7 +35,7 @@
 <br>
 <a href = "mailto:pfelger@purdue.edu">E-mail Payge Felger</a>
 <br>
-<img src = "![istockphoto-543185364-612x612](https://github.com/user-attachments/assets/659b192d-fec6-4aac-9ab3-d7f4466cf89b)">
+
 
   
 </body>  
