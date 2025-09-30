@@ -3,7 +3,7 @@
 <head>
 
 </head>
-<body>
+<body bgcolor= "red" >
 
 <h1>This is heading 1</h1>
 <br>
@@ -14,6 +14,13 @@
 <i>This is italicized text</i>
 <br>
 <u>This is underlined text</u>
+<br>
+<br>
+<i>T</i>his is italicized text
+<br>
+<br>
+<b><u><i>This text is boldfaced, underlined, and italicized</i></u></b>
+
   
 </body>  
 </html>
